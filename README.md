@@ -4,12 +4,12 @@ If you are looking to dabble in the basics of networking, you've found the right
 Networking is a powerful tool--it's how you're viewing this page on the world wide web right now. 
 By creating a system of connected computers, we are able to accomplish a lot of great things.
 
-In this repo, I've built  a basic client-server TCP chatroom application, that can be ran in the command prompt. 
+In this repo, I've built  a basic client-server TCP chatroom application, that can be run in the command prompt. 
 It uses sockets and threading to allow multiple clients to connect to the same local server, and send messages back and forth.
 To add additional functionality, we now support a password protected admin user that can kick and ban users from the chatroom.
 
 **Getting Started**
-1. Clone the repository and make sure python is setup on your computer
+1. Clone the repository and make sure python is set up on your computer
 2. Open the command terminal and navigate to the directory with this repo
 3. Run `python server.py` to start the chatroom server
 4. Open the command terminal and navigate to the directory with this repo
