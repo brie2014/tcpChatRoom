@@ -19,7 +19,7 @@ To add additional functionality, we now support a password protected admin user 
 
 Note: To join as an admin, when you start the client, enter `admin` as the nickname, then enter `adminpass` as the password
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/NLEMmBfq4zw)
 
 # Network Communication
 
@@ -54,6 +54,8 @@ Libraries: socket, threading
 
 **Setup**
 * [PyCharm Download](https://www.jetbrains.com/pycharm/download/?section=windows)
+* [Setup GitHub with PyCharm](https://www.jetbrains.com/help/pycharm/github.html)
+* [Setup Git Repository with PyCharm](https://www.jetbrains.com/help/pycharm/set-up-a-git-repository.html)
 
 **Videos**
 * [Python Sockets Simply Explained](https://www.youtube.com/watch?v=YwWfKitB8aA)
